@@ -1,0 +1,47 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Secrets and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+
+# Logs
+*.log
+logs/
+
+# Backups and dumps
+*.sql
+*.dump
+*.bak
+backups/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Screenshots awaiting privacy review
+assets/screenshots/*.webp
