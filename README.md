@@ -49,7 +49,7 @@ O problema central é substituir planilhas, conversas dispersas e controles manu
 - Conta com login, recuperação de senha, confirmação por e-mail e MFA.
 - Notificações no aplicativo e por e-mail.
 
-> Prints relacionados estão mapeados em `docs/features.md` e `assets/screenshots/README.md`, mas devem ser usados somente após revisão manual.
+As capturas deste README representam o dashboard e o fluxo de lançamentos com dados anonimizados.
 
 ## Tecnologias utilizadas
 
@@ -183,7 +183,7 @@ Minha participação pública neste projeto inclui idealização do produto, des
 
 ### Próximos passos públicos
 
-- Revisar screenshots com dados fictícios.
+- Manter as capturas públicas anonimizadas e atualizadas.
 - Completar informações públicas de contato.
 - `[ADICIONAR PROXIMOS PASSOS PUBLICOS]`
 
