@@ -12,9 +12,9 @@ Aplicação web para controle, rateio e fechamento de despesas compartilhadas em
 
 ## Imagem principal
 
-> Placeholder: inserir aqui o melhor screenshot público depois de revisão manual das imagens em `assets/screenshots/`.
->
-> Os screenshots existentes foram convertidos para WebP e inventariados, mas alguns parecem conter e-mails, nomes de teste ou valores financeiros. Por isso, nenhuma imagem foi incorporada diretamente neste README antes de revisão humana.
+![Dashboard do SharePay com visão financeira e calendário](assets/public-screenshots/dashboard-anonimizado.png)
+
+Captura de demonstração com informações pessoais anonimizadas.
 
 ## Demonstração
 
@@ -153,9 +153,11 @@ Os princípios públicos do projeto incluem credenciais fora do código, valida�
 
 ## Galeria
 
-Os screenshots disponíveis estão em `assets/screenshots/` e documentados em [assets/screenshots/README.md](assets/screenshots/README.md). Eles ainda não foram incluídos nesta galeria porque exigem revisão manual antes de publicação.
+As capturas abaixo usam dados anonimizados. As imagens originais de trabalho permanecem fora do repositório público.
 
-> Placeholder: após a revisão, adicionar de dois a seis screenshots públicos com dados fictícios, descrição objetiva e texto alternativo adequado.
+### Lançamentos e acompanhamento
+
+![Tela de lançamentos com valores anonimizados](assets/public-screenshots/lancamentos-anonimizado.png)
 
 ## Meu papel no projeto
 
