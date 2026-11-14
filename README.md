@@ -18,7 +18,7 @@ Captura de demonstração com informações pessoais anonimizadas.
 
 ## Demonstração
 
-**Sistema em produção:** [Acessar demonstração](https://sharepay.vnuv.net)
+**Sistema em produção:** [sharepay.vnuv.net](https://sharepay.vnuv.net)
 
 **Status:** MVP funcional em uso.
 
